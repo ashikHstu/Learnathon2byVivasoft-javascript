@@ -30,3 +30,26 @@ Let :
 const:
 1. cannot be re-assigned.
 */
+
+/* JavaScript variables and Types :
+two types: 
+1. primitive
+2. Non-primitives(Reference type)
+
+//Number
+let length=16;
+le weight=7.5;
+
+
+// Booleans
+let x=true;
+let y=false;
+
+Objects :
+
+
+
+
+*/
+
+console.log(typeof ([3, 4, 5, 2]))
