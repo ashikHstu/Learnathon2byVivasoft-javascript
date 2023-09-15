@@ -30,3 +30,9 @@ var func = function functionTwo(a, b) {
 const functionTwo = (a, b) => {
     return a + " " + b;
 }
+
+
+// JavaScript Array
+
+const cars = ['saab', 'Volvo', 'BMW'];
+console.log(cars[2])
