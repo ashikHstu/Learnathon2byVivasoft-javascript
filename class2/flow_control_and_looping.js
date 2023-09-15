@@ -17,5 +17,16 @@ switch (3) {
         console.log("nothing matches!");
 }
 
+for (let i = 0; i < 5; i++) {
+    console.log(i);
+}
 
+// Function expression
+var func = function functionTwo(a, b) {
+    return a + " " + b;
+}
 
+// Arrow function
+const functionTwo = (a, b) => {
+    return a + " " + b;
+}
